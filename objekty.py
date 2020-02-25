@@ -53,6 +53,7 @@ class Kruh:
 
 Prvy = Kruh(-10)
 Druhy = Kruh(5)
+Treti = Kruh (10)
 # print(Prvy.obsah())
 # print(Prvy)
 # if Prvy == Druhy:
